@@ -8,7 +8,7 @@ bs4
 regex
 docx
 nltk
-nltk.download("stopwords")
+stopwords
 spacy
 python-docx
 scikit-learn
